@@ -1,0 +1,2 @@
+ng g class employee
+ng g c employee-list
